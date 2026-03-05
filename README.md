@@ -1,45 +1,70 @@
-🏥 Healthcare Insight: Emergency Care Performance Tracker
-🌟 Project Overview
-The Healthcare Insight Dashboard is a high-impact Power BI solution designed to provide a 360-degree view of Emergency Room (ER) operations. By transforming complex patient data into actionable insights, this tracker empowers healthcare providers to monitor performance, reduce wait times, and enhance patient care quality.
+Project Overview
 
-Originally developed as part of a study on healthcare expenditure and performance, this dashboard focuses on the critical intersection of operational efficiency and patient satisfaction.
+ElectViz is a data visualization project developed to analyze and present election data in an easy and interactive way. The main goal of this project is to help media professionals, researchers, and the public understand election results through clear charts, graphs, and dashboards.
 
-📊 Key Performance Indicators (KPIs)
-Patient Volume: Analyzing a total of 9.216K patients with deep-dives into monthly and departmental trends.
+The project uses election datasets to create visual insights such as total electors, total votes casted, winning candidates, party distribution, and vote percentages.
 
-Operational Efficiency: Real-time tracking of the Average Waiting Time (35.26 mins) to optimize ER throughput.
+Objective
 
-Patient Satisfaction: Monitoring quality of care through focused satisfaction score analysis.
+The main objectives of this project are:
 
-Case Management: Overseeing a total of 480 active cases across the hospital network.
+To organize election data in a structured format
 
-🧠 Core Analysis & Features
-Departmental Referrals: Detailed breakdown of patient distribution across 8 departments, identifying high-demand areas like General Practice and Orthopedics.
+To visualize election results using interactive dashboards
 
-Demographic Profiling: Interactive analysis by Gender (51% Female / 49% Male) and Age, allowing for specialized care strategies.
+To help users easily analyze election trends and patterns
 
-Trend Monitoring: Visualizing the patient journey from January to December to identify seasonal peaks and resource needs.
+To support media professionals in presenting election information clearly
 
-Granular Reporting: A comprehensive data table for individual patient tracking, including wait times and satisfaction levels.
+Dataset
 
-🛠️ Tech Stack & Tools
-Power BI Desktop: The primary platform for advanced data visualization and report creation.
+The dataset used in this project includes state-level election information such as:
 
-Power Query: Used for robust data transformation and cleaning of the hospital ER dataset.
+Year of Election
 
-DAX (Data Analysis Expressions): Implemented for calculating complex measures like Average Wait Times and Satisfaction Scores.
+State Name
 
-Data Modeling: Established efficient relationships between patient demographics, time, and departmental data.
+Constituency Name
 
-📁 Exploration Guide
-Clone/Download: Obtain the .pbix file from this repository.
+Winner Candidate Name
 
-Launch: Open the file via Power BI Desktop.
+Gender
 
-Interact: Utilize the top-tier Slicers (Full Name, Patient Age, Department, Month) to filter the entire dashboard for specific insights.
+Party Name and Symbol
 
-📸 Dashboard Preview
-To view the full-resolution interactive dashboard preview, click the link below: 👉 View Dashboard Screenshot
-https://github.com/Janhavi159202/ElectViz-Election-Data-Visualization-for-Media-by-JANHAVI-SHARMA/blob/main/Preview%20Of%20The%20Dashboard.jpg
+Total Electors
 
-This tool is intended for healthcare analysts and hospital administrators seeking data-driven strategies to improve emergency room performance.
+Vote Percentage
+
+Margin Votes
+
+Category
+
+Total Votes Casted
+
+Tools and Technologies Used
+
+Microsoft Excel (Data Cleaning and Preparation)
+
+Power BI (Data Visualization and Dashboard Creation)
+
+GitHub (Project Repository Management)
+
+Dashboard Features
+
+The election dashboard includes the following features:
+
+KPI cards showing total electors, total votes casted, and average vote percentage
+
+State-wise election analysis
+
+Party-wise winner distribution
+
+Gender distribution of winners
+
+Vote percentage analysis
+
+Expected Outcome
+
+The final outcome of this project is an interactive election dashboard that helps users quickly understand election data and trends.
+ Infosys Springboard
